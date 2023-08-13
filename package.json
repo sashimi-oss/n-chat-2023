@@ -1,0 +1,17 @@
+{
+  "name": "n-chat",
+  "version": "1.0.0",
+  "description": "れんしゅう",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "git@github.com:sashimi-oss/n-chat-2023.git",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "4.11.0",
+    "http-auth": "4.2.0",
+    "prisma": "4.11.0",
+    "pug": "3.0.2"
+  }
+}
